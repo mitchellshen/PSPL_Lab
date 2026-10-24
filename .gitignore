@@ -1,0 +1,10 @@
+# MATLAB editor autosave and backup files
+*.asv
+*.m~
+
+# Office lock files (left while a .pptx or .docx is open)
+~$*
+
+# OS clutter
+.DS_Store
+Thumbs.db
